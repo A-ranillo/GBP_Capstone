@@ -7,11 +7,11 @@ The project definition is to have a context enrichment layer in a given log. Thi
 This repo will provide steps, configuration, and troubleshooting endevour that was encountered. I hope you have fun reading this repo :)))
 
 ## hardware
-CPU: 9900K
-RAM: 64GB (IN THIS ECONOMY?!?!?!?!)
-STORAGE: 500GB NVME
-GPU: RTX 2080 SUPER
-OPERATING SYSTEM: PROXMOX VE
+- CPU: 9900K
+- RAM: 64GB (IN THIS ECONOMY?!?!?!?!)
+- STORAGE: 500GB NVME
+- GPU: RTX 2080 SUPER
+- OPERATING SYSTEM: PROXMOX VE
 
 ## TABLE OF CONTENT
 placeholder
