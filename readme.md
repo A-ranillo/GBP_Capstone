@@ -1,3 +1,3 @@
-## George Browm Polytechnic Capstone Documentation
+## George Brown Polytechnic Capstone Documentation
 <hr>
 placeholder for now
